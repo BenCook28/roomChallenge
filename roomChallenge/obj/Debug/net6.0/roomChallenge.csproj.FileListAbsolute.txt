@@ -1,0 +1,15 @@
+/Users/benjamincook/Desktop/Coding/roomChallenge/bin/Debug/net6.0/roomChallenge
+/Users/benjamincook/Desktop/Coding/roomChallenge/bin/Debug/net6.0/roomChallenge.deps.json
+/Users/benjamincook/Desktop/Coding/roomChallenge/bin/Debug/net6.0/roomChallenge.runtimeconfig.json
+/Users/benjamincook/Desktop/Coding/roomChallenge/bin/Debug/net6.0/roomChallenge.dll
+/Users/benjamincook/Desktop/Coding/roomChallenge/bin/Debug/net6.0/roomChallenge.pdb
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.csproj.AssemblyReference.cache
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.AssemblyInfoInputs.cache
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.AssemblyInfo.cs
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.csproj.CoreCompileInputs.cache
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.dll
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/refint/roomChallenge.dll
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.pdb
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/roomChallenge.genruntimeconfig.cache
+/Users/benjamincook/Desktop/Coding/roomChallenge/obj/Debug/net6.0/ref/roomChallenge.dll
