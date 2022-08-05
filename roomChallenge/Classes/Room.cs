@@ -1,13 +1,13 @@
-namespace Classes
+public class Room
 {
-    public class Room
-    {
-        public decimal roomLength { get; set; }
-        public decimal roomWidth { get; set; }
-        public decimal roomHeight { get; set; }
-    }
-    public void calculateArea(decimal length, decimal width, decimal heigth)
-    {
+    public decimal roomLength { get; set; }
+    public decimal roomWidth { get; set; }
+    public decimal roomHeight { get; set; }
 
+    public decimal CalculateArea(decimal length, decimal width, decimal heigth)
+    {
+        decimal area = length * width * heigth;
+        return area;
     }
 }
+
